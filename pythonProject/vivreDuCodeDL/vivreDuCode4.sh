@@ -1,0 +1,1 @@
+<function bashprompt at 0x7f6094589fc0>
